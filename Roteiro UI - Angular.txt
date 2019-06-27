@@ -1,0 +1,20 @@
+UI
+
+1 - Criar projeto e escolher o tema
+2 - Prototipar telas de uso dos recursos
+3 - Criar NavBar (barra de navegação)
+4 - Adicionar validação nos formulários
+5 - Exibir erros de validação
+6 - Estilizar campos de erros
+
+7 - Criar componente de mensagens
+
+8 - Separar módulos
+
+9 - Criar serviços HTTP
+
+10 - Adicionar paginação Lazy
+
+11 - Adicionar mensagens (growl) com ToastaService e confirmação de Exclusão com ConfirmDialogModule/ConfirmationService
+
+12 - 
